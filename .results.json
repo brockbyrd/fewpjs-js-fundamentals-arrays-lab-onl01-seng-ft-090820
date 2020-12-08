@@ -1,0 +1,90 @@
+{
+  "stats": {
+    "suites": 6,
+    "tests": 4,
+    "passes": 4,
+    "pending": 0,
+    "failures": 0,
+    "start": "2020-12-08T22:09:41.246Z",
+    "end": "2020-12-08T22:09:41.746Z",
+    "duration": 500
+  },
+  "tests": [
+    {
+      "title": "appends pet \"Odie\" to the end of the pets array",
+      "fullTitle": "index.js Array functions append appends pet \"Odie\" to the end of the pets array",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-arrays-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "prepends a pet to the beginning of the pets array",
+      "fullTitle": "index.js Array functions prepend prepends a pet to the beginning of the pets array",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-arrays-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "removes the last pet from the pets array",
+      "fullTitle": "index.js Array functions removeLast() removes the last pet from the pets array",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-arrays-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "removes the First pet from the pets array",
+      "fullTitle": "index.js Array functions removeFirst() removes the First pet from the pets array",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-arrays-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "appends pet \"Odie\" to the end of the pets array",
+      "fullTitle": "index.js Array functions append appends pet \"Odie\" to the end of the pets array",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-arrays-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "prepends a pet to the beginning of the pets array",
+      "fullTitle": "index.js Array functions prepend prepends a pet to the beginning of the pets array",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-arrays-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "removes the last pet from the pets array",
+      "fullTitle": "index.js Array functions removeLast() removes the last pet from the pets array",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-arrays-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "removes the First pet from the pets array",
+      "fullTitle": "index.js Array functions removeFirst() removes the First pet from the pets array",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-arrays-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
